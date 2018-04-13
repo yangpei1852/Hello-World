@@ -1,5 +1,5 @@
 # Hello-World
-learn git
+learngit
 
 This is my first time to use git.
 wish me a heal.
